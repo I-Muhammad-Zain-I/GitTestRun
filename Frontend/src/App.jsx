@@ -2,7 +2,7 @@
 
 import './App.css'
 
-import Display from '../Component/display'
+import Display from './Component/display'
 function App() {
   // const [count, setCount] = useState(0)
 
